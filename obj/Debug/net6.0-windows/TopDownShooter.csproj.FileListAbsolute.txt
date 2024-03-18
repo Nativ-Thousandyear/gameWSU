@@ -1,0 +1,54 @@
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\Hero.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\L1.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\L2.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\L3.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\Misc\Arial16.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\Misc\CursorArrow.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\Misc\shade.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\Misc\solid.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\Projectiles\enemy_fireball.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\Projectiles\Fireball.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\Raw Assets\enemy_fireball.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\Raw Assets\Hero.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\Raw Assets\L1.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\Raw Assets\L2.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\Raw Assets\L3.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\2d\Imp.xnb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Content\Raw Assets\enemy_fireball.png
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\TopDownShooter.exe
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\TopDownShooter.deps.json
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\TopDownShooter.runtimeconfig.json
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\TopDownShooter.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\TopDownShooter.pdb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\TopDownShooter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\TopDownShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\TopDownShooter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\TopDownShooter.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\TopDownShooter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\TopDownS.671D3E34.Up2Date
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\TopDownShooter.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\refint\TopDownShooter.dll
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\TopDownShooter.pdb
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\TopDownShooter.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\term-project-dev (2)\term-project-dev\game\TopDownShooter\TopDownShooter\obj\Debug\net6.0-windows\ref\TopDownShooter.dll
